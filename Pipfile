@@ -12,7 +12,8 @@ dask = "*"
 toolz = "*"
 "s3contents" = "*"
 ipython = "*"
-
+github3 = "*"
+psycopg2 = "*"
 
 [dev-packages]
 

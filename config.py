@@ -25,6 +25,7 @@ c.NotebookApp.token = ''
 c.NotebookApp.password = PASSWORD
 
 
+
 # Configuration file for jupyterhub.
 
 #------------------------------------------------------------------------------
